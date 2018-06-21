@@ -1,4 +1,4 @@
 # clock
-Clock made with pure JS.
+Clock made with pure JS
 
 Website: http://clock.gonpeche.com/
